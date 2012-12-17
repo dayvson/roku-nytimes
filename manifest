@@ -1,0 +1,14 @@
+title=NYTimes
+subtitle=Your news videos source on demand
+splash_color=#FFFFFF
+splash_screen_hd=pkg:/images/Splash_HD.png
+splash_screen_sd=pkg:/images/Splash_HD.png
+mm_icon_focus_hd=pkg:/images/MainMenu_Icon_CenterFocus_HD.png
+mm_icon_side_hd=pkg:/images/MainMenu_Icon_Side_HD.png
+mm_icon_focus_sd=pkg:/images/MainMenu_Icon_CenterFocus_SD.png
+mm_icon_side_sd=pkg:/images/MainMenu_Icon_Side_SD.png
+screensaver_title=NYTimes
+screensaver_private=0
+major_version=1
+minor_version=0
+build_version=0
